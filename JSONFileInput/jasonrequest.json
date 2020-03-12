@@ -1,0 +1,20 @@
+[
+    {
+        "employeeStatus": 1,
+        "employeeName": "ramesh",
+        "firstName": "ramesh",
+        "lastName": "sathiyaseelan",
+        "emailID": "rameshsakthi@gmail.com",
+        "password": "welcome",
+        "phoneNumber": "9902639488"
+    },
+    {
+         "employeeStatus": 1,
+        "employeeName": "rajesh",
+        "firstName": "suji",
+        "lastName": "sathiyaseelan",
+        "emailID": "sujisakthi@gmail.com",
+        "password": "welcome",
+        "phoneNumber": "9903630488"
+    }
+]
