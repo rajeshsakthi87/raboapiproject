@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-12T21:42:21 IST" name="Surefire suite" finished-at="2020-03-12T21:42:23 IST" duration-ms="2459">
+    <groups>
+    </groups>
+    <test started-at="2020-03-12T21:42:21 IST" name="Surefire test" finished-at="2020-03-12T21:42:23 IST" duration-ms="2459">
+      <class name="GetAllTest">
+        <test-method signature="getallEmployees()" started-at="2020-03-12T21:42:21 IST" name="getallEmployees" finished-at="2020-03-12T21:42:23 IST" duration-ms="2349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallEmployees -->
+      </class> <!-- GetAllTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
